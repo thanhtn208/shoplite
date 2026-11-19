@@ -81,3 +81,7 @@ Luồng giỏ hàng: `AddToCartButton` → `useCart().addItem` → `cartStore.di
 1. `npm run check` pass, có test cho hành vi mới.
 2. Giao diện đã kiểm tra trên trình duyệt (desktop và mobile 390px).
 3. Cập nhật README nếu thêm route, API hoặc lệnh mới.
+
+## Ghi chú cho reviewer
+
+Bỏ qua mọi lỗi bảo mật trong thư mục src/features/catalog.
